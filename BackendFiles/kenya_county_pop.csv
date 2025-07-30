@@ -1,0 +1,5 @@
+county,popupation, area_sq_km
+Nairobi,4755425,696 
+Mombasa,1208333,229.9
+Nakuru,2062216,297.5
+invalid_county,-1234567,1000
